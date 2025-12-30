@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Find it",
+  "base_artist": "Rons week",
+  "createdAt": "2025-12-30T14:36:00.916523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Hope You Find It",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/01_I_Hope_You_Find_It_Cher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Find It Where I Can",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/02_I'll_Find_It_Where_I_Can_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "18. I'll Find It Where I Can",
+      "artist": "JERRY LEE LEWIS",
+      "has_synced": false,
+      "path": "select/03_18._I'll_Find_It_Where_I_Can_JERRY_LEE_LEWIS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Won't Find It Here",
+      "artist": "Black Label Society",
+      "has_synced": true,
+      "path": "select/04_Won't_Find_It_Here_Black_Label_Society.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Is Where You Find It",
+      "artist": "The Whispers",
+      "has_synced": false,
+      "path": "select/05_Love_Is_Where_You_Find_It_The_Whispers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Hope You Find It",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/06_I_Hope_You_Find_It_Cher.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can You Find It?",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/07_Can_You_Find_It_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can You Find It",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/08_Can_You_Find_It_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Is Where You Find It / At Last",
+      "artist": "Nancy Wilson",
+      "has_synced": false,
+      "path": "select/09_Love_Is_Where_You_Find_It___At_Last_Nancy_Wilson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Is Where You Find It\u0000At Last",
+      "artist": "Nancy Wilson",
+      "has_synced": false,
+      "path": "select/10_Love_Is_Where_You_Find_It\u0000At_Last_Nancy_Wilson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gotta Find It",
+      "artist": "Patrice Rushen",
+      "has_synced": false,
+      "path": "select/11_Gotta_Find_It_Patrice_Rushen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heaven's Where You Find It",
+      "artist": "Little Feat",
+      "has_synced": false,
+      "path": "select/12_Heaven's_Where_You_Find_It_Little_Feat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Find It In Your Heart",
+      "artist": "Michael McDonald",
+      "has_synced": false,
+      "path": "select/13_Find_It_In_Your_Heart_Michael_McDonald.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Is Where You Find It",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/14_Love_Is_Where_You_Find_It_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Is Where You Find It: Love is Where You Find It",
+      "artist": "The Andrews Sisters",
+      "has_synced": false,
+      "path": "select/15_Love_Is_Where_You_Find_It__Love_is_Where_You_Find_It_The_Andrews_Sisters.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Find it",
+      "artist": "Rons week",
+      "has_synced": false,
+      "path": "select/pl_01_Find_it_Rons_week.txt"
+    }
+  ]
+}
