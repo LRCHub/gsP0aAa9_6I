@@ -1,0 +1,52 @@
+# Rons week – Find it
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+どこに隠れているの?秘密の暗号
+eight letterのペア重なるループ音
+想像できた?このコンビネーション
+朝まで張り込みあんぱん片手にsearch search
+一見無関係に見える voice
+ぐるぐるまわる駆け巡る
+tasting何度でもどうぞ
+捕まえる前にlisten to the song
+Find it find it 自由に踊る
+Find it find it こんなにも近くに
+Find it find it 輝くデイライト
+Find it find it
+Find it find it
+Find it find it
+Find it find it
+Find it find it
+案外すぐそばに答えはある
+フィルム残る証拠足跡辿る方向
+山積みの書類に手を伸ばす
+もうこんな時間だよミッドナイト
+物差しじゃ測れないくらい大事件が待ってる
+立ち話もなんだから一杯コーヒー奢るよ
+なぁなぁいつもの性格なぁなぁ2人の相性
+どんな感じでこういう夫婦みたいな関係できてるわ
+け?
+最高なrond rond 会って確かめてみたい
+そりゃもう2人は地球1周
+どこまでもいけるぜimagination
+超えていけfun fun 夢中になる Right now
+愛らしいトゲトゲしいまるでsuper couple
+サングラス外し 見える景色軽快
+飲み干したミルクパック 陰で持ち警戒
+知らなかったI like it 流れくるミュージック
+2つのシルエット 猛スピードでrun around
+一見無関係に見える voice
+ぐるぐるまわる駆け巡る
+tasting何度でもどうぞ
+捕まえる前にlisten to the song
+Find it find it 自由に踊る
+Find it find it こんなにも近くに
+Find it find it 輝くデイライト
+Find it find it
+Find it find it
+Find it find it
+Find it find it
+Find it find it
+```
